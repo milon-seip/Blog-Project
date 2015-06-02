@@ -1,0 +1,6 @@
+E:\BASIS _SEIP - Practice (.NET)\Web Development Application\BlogApp\BlogApp\bin\BlogApp.dll.config
+E:\BASIS _SEIP - Practice (.NET)\Web Development Application\BlogApp\BlogApp\bin\BlogApp.dll
+E:\BASIS _SEIP - Practice (.NET)\Web Development Application\BlogApp\BlogApp\bin\BlogApp.pdb
+E:\BASIS _SEIP - Practice (.NET)\Web Development Application\BlogApp\BlogApp\obj\Debug\BlogApp.csprojResolveAssemblyReference.cache
+E:\BASIS _SEIP - Practice (.NET)\Web Development Application\BlogApp\BlogApp\obj\Debug\BlogApp.dll
+E:\BASIS _SEIP - Practice (.NET)\Web Development Application\BlogApp\BlogApp\obj\Debug\BlogApp.pdb
